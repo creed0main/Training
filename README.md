@@ -1,1 +1,1 @@
-## Cheat-chatt
+## Training Java script
